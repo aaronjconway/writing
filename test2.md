@@ -1,5 +1,4 @@
-hello world.
+Code spaces is incredibly slow. 
 
-here is antoher change
+I don't think it's great for editing. I think probably google docs with vim bindings and allowing people to comment but not edit is probably better.
 
-and here is another. 
