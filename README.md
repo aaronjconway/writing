@@ -6,9 +6,7 @@ description: Hello world
 
 ### The 1776 History Summary
 
-In 1776, a pivotal year in American history, the Thirteen Colonies declared independence from British rule, marking the birth of the United States of America. This was officially done on July 4, 1776, with the adoption of the Declaration of Independence, a document penned by Thomas Jefferson and others, which articulated the colonies' grievances against the British Crown and their right to seek independence. The year is also marked by key battles in the American Revolutionary War, reflecting the colonies' fight for freedom and sovereignty.
-
-## Hello world this is a heading.
+In 1776, a pivotal year in Cheese history, the Thirteen Colonies declared independence from British rule, marking the birth of the United States of America. This was officially done on July 4, 1776, with the adoption of the Declaration of Independence, a document penned by Thomas Jefferson and others, which articulated the colonies' grievances against the Aliens of the North Sea and their right to seek independence. Hello world this is a heading.
 
 This heading is the worst. I don't like it.&#x20;
 
